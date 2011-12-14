@@ -4,12 +4,14 @@
 * not provided due to licensing regulations
 * download current version from: https://www-304.ibm.com/support/docview.wss?uid=swg21363866
 * copy db2jcc4.jar to jdbc folder
+
         ├── db2v97
         │   ├── jdbc
         │   │   └── db2jcc4.jar
 
 #### Configure DB properties
 * edit hibernate.properties to match your environment
+
         ├── db2v97
         │   └── resources
         │       └── hibernate.properties
